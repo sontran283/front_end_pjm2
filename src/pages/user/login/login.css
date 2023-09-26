@@ -1,0 +1,16 @@
+.font-sans {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.144), rgba(0, 0, 0, 0.144)), url("/public/images/bg_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-color: rgba(204, 214, 189, 0.856);
+}
+
+.form::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(248, 241, 241, 0.5);
+}

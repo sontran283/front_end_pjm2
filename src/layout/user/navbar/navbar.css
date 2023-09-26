@@ -1,0 +1,20 @@
+.nameColor {
+    color: forestgreen;
+}
+
+:where(.css-dev-only-do-not-override-i0102m).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn {
+    background-color: #1677ff !important;
+}
+
+:where(.css-dev-only-do-not-override-i0102m).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn:hover {
+    background-color: #4096ff !important;
+}
+
+:where(.css-dev-only-do-not-override-i0102m).ant-input-search>.ant-input-group>.ant-input-group-addon:last-child .ant-input-search-button:not(.ant-btn-primary) {
+    height: 30px;
+}
+
+:where(.css-dev-only-do-not-override-i0102m).ant-input-group>.ant-input:first-child {
+    height: 30px;
+}
+

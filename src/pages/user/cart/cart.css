@@ -1,0 +1,28 @@
+.gap-6 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.total {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+
+.total1 {
+    text-align: center;
+    padding-top: 19px;
+}
+
+.cart {
+    margin-bottom: 20px;
+}
+
+.bg-lime-300 {
+    border: none;
+}
+
+.img.img {
+    display: block !important;
+}

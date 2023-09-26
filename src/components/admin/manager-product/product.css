@@ -1,0 +1,24 @@
+.product-container {
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.form-container {
+    width: 500px;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #3333;
+    border-radius: 4px;
+}
+
+.form-control {
+    background-color: #efefef;
+}
